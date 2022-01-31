@@ -28,7 +28,7 @@
             } else if ( $age <= 17 ) {
                 $message = "I am not old enought to vote in the United States.";
             } else ( empty ($age)) {
-                $message = 'Must enter your age!';
+                $message = 'Must enter your age!'
             }   ?>
     </h3>
 
